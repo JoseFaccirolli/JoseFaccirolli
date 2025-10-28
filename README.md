@@ -1,16 +1,48 @@
-## Hi there 👋
+# 👋 Olá, eu sou o José!
 
-<!--
-**JoseFaccirolli/JoseFaccirolli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante do **2º ano do Ensino Médio Técnico** no **SESI/SENAI**, cursando **Desenvolvimento de Sistemas**.  
+Apaixonado por tecnologia, programação e resolver problemas de forma criativa.  
 
-Here are some ideas to get you started:
+Atualmente, estou explorando o mundo do **desenvolvimento backend**, mas também tenho experiências práticas com **robótica** e **visão computacional**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 O que estudo e desenvolvo
+
+- 🧩 **Backend:** Node.js, JavaScript, MySQL  
+- 🧠 **Lógica de programação e APIs**  
+- 🤖 **Robótica e sistemas embarcados:** ESP32, OpenMV, C++ 
+- 👁️ **Visão computacional:** Machine Learning com TensorFlow
+
+---
+
+## 🤖 Experiência com robótica
+
+Faço parte da equipe **SESI FranRobots**, participante da **RoboCup (Maze Junior)**.  
+Lá, trabalhei com **ESP32 e OpenMV**, desenvolvendo soluções baseadas em **visão computacional** e **machine learning embarcado** — experiências que reforçaram meu interesse por tecnologia e inovação.
+
+---
+
+## 💡 Objetivo
+
+Construir uma carreira como **Desenvolvedor Backend**, contribuindo para projetos reais e evoluindo tecnicamente junto a uma equipe colaborativa e criativa.
+
+---
+
+## 🛠️ Tecnologias e ferramentas
+
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)  
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql)  
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)  
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)  
+![GitLab](https://img.shields.io/badge/-GitLab-05122A?style=flat&logo=gitlab)  
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=cplusplus)  
+![ESP32](https://img.shields.io/badge/-ESP32-05122A?style=flat&logo=espressif)  
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=tensorflow)
+
+---
+
+## 📬 Redes Sociais
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/jose-faccirolli)
