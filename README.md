@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o José!
 
-Estudante do **2º ano do Ensino Médio Técnico** no **SESI/SENAI**, cursando **Desenvolvimento de Sistemas**.  
+Estudante do **3º ano do Ensino Médio Técnico** no **SESI/SENAI**, cursando **Desenvolvimento de Sistemas**.  
 Apaixonado por tecnologia, programação e resolver problemas de forma criativa.  
 
 Atualmente, estou explorando o mundo do **desenvolvimento backend**, mas também tenho experiências práticas com **robótica** e **visão computacional**.
@@ -25,7 +25,7 @@ Lá, trabalhei com **ESP32 e OpenMV**, desenvolvendo soluções baseadas em **vi
 
 ## 💡 Objetivo
 
-Construir uma carreira como **Desenvolvedor Backend**, contribuindo para projetos reais e evoluindo tecnicamente junto a uma equipe colaborativa e criativa.
+Construir uma carreira como **Desenvolvedor Backend**, contribuindo para projetos reais e evoluindo tecnicamente junto a uma equipe.
 
 ---
 
@@ -46,3 +46,4 @@ Construir uma carreira como **Desenvolvedor Backend**, contribuindo para projeto
 ## 📬 Redes Sociais
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/jose-faccirolli)
+- 📸 [Instagram](https://www.instagram.com/jose.faccirolli)
