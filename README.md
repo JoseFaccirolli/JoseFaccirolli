@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o José!
 
-Estudante do **3º ano do Ensino Médio Técnico** no **SESI/SENAI**, cursando **Desenvolvimento de Sistemas**.  
-Apaixonado por tecnologia, programação e resolver problemas de forma criativa.  
+Estudante do **3º ano do Ensino Médio (SESI)** e cursando o **2º ano do Curso Técnico em Desenvolvimento de Sistemas (SENAI)**.  
+Apaixonado por tecnologia, programação e por resolver problemas de forma criativa.
 
 Atualmente, estou explorando o mundo do **desenvolvimento backend**, mas também tenho experiências práticas com **robótica** e **visão computacional**.
 
