@@ -7,27 +7,25 @@ Atualmente, meu objetivo é construir uma carreira sólida em backend, mas tamb�
 
 ---
 
-## 🧠 Como eu penso e trabalho
+## Como eu penso e trabalho
 
 Mais do que escrever código, gosto de entender o ecossistema do projeto.
-- **🤝 Trabalho em Equipe:** Acredito na **interdisciplinaridade** e na comunicação ativa. Na robótica, atuo garantindo que o software converse perfeitamente com a mecânica.
-- **🔥 Resolução de Problemas:** Tenho experiência em atuar sob pressão em competições, mantendo a calma para entregar soluções rápidas e, posteriormente, refatorá-las com análise crítica.
-- **🗣️ Comunicação:** Habilidade lapidada através de apresentações de Sprints no SENAI e entrevistas técnicas na RoboCup.
+- **Trabalho em Equipe:** Acredito na **interdisciplinaridade** e na comunicação ativa. Na robótica, atuo garantindo que o software converse perfeitamente com a mecânica.
+- **Resolução de Problemas:** Tenho experiência em atuar sob pressão em competições, mantendo a calma para entregar soluções rápidas e, posteriormente, refatorá-las com análise crítica.
+- **Comunicação:** Habilidade lapidada através de apresentações de Sprints no SENAI e entrevistas técnicas na RoboCup.
 
 ---
 
-## 🤖 Experiência e Conquistas
+## Experiência e Conquistas
 
 Como membro da equipe **SESI FranRobots**, desenvolvi uma base sólida em sistemas embarcados e inteligência artificial aplicada.
 
 * **Área de atuação:** Desenvolvimento de firmware para **ESP32**, implementação de Machine Learning (Edge Impulse) com visão computacional na **OpenMV**.
 * **Marcos da Carreira:**
     * 🥉 3º Lugar na etapa Nacional da RoboCup (Vitória-ES).
-    * 🇨🇦 Classificação e representação do time no **RoboCup Open Internacional (Canadá)**.
-
 ---
 
-## 🛠️ Tecnologias e ferramentas
+## Tecnologias e ferramentas
 
 | Domínio | Stack |
 | :--- | :--- |
@@ -37,7 +35,7 @@ Como membro da equipe **SESI FranRobots**, desenvolvi uma base sólida em sistem
 
 ---
 
-## 📬 Redes Sociais
+## Redes Sociais
 * **LinkedIn:** Minha trajetória profissional e conexões 💼.
 * **GitLab:** Projetos acadêmicos (SENAI) 📚.
 
