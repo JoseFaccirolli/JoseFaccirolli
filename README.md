@@ -21,7 +21,7 @@ Mais do que escrever código, gosto de entender o ecossistema do projeto.
 Como membro da equipe **SESI FranRobots**, desenvolvi uma base sólida em sistemas embarcados e inteligência artificial aplicada.
 
 * **Área de atuação:** Desenvolvimento de firmware para **ESP32**, implementação de Machine Learning (Edge Impulse) com visão computacional na **OpenMV**.
-* **Marcos da Carreira:**
+* **Marco da Carreira:**
     * 🥉 3º Lugar na etapa Nacional da RoboCup (Vitória-ES).
 ---
 
