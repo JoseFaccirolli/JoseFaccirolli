@@ -18,11 +18,12 @@ Mais do que escrever código, gosto de entender o ecossistema do projeto.
 
 ## Experiência e Conquistas
 
-Quando membro da equipe **SESI FranRobots**, desenvolvi uma base sólida em sistemas embarcados e inteligência artificial aplicada.
+Enquanto membro da equipe **SESI FranRobots**, desenvolvi uma base sólida em sistemas embarcados e inteligência artificial aplicada.
 
 * **Área de atuação:** Desenvolvimento de firmware para **ESP32**, implementação de Machine Learning (Edge Impulse) com visão computacional na **OpenMV**.
 * **Marco da Carreira:**
     * 🥉 3º Lugar na etapa Nacional da RoboCup (Vitória-ES).
+    * 🇨🇦 Vaga para o Pan Americano da RoboCup (Canadá)
 ---
 
 ## Tecnologias e ferramentas
@@ -30,8 +31,8 @@ Quando membro da equipe **SESI FranRobots**, desenvolvi uma base sólida em sist
 | Domínio | Stack |
 | :--- | :--- |
 | **Desenvolvimento Web** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/> |
-| **Robótica & Visão** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> <img src="https://img.shields.io/badge/Edge%20Impulse-121212?style=flat-square&logo=edgeimpulse&logoColor=white" height="30"/> |
-| **Ferramentas & Ambiente** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/> |
+| **Robótica & Visão** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/> <img src="https://img.shields.io/badge/Edge%20Impulse-121212?style=flat-square&logo=edgeimpulse&logoColor=white" height="30"/> |
+| **Ferramentas & Ambiente** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/> <img src="./assets/openmv.png" height="40"/> |
 
 ---
 
