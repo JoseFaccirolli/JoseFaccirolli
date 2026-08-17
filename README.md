@@ -10,7 +10,7 @@ Atualmente, meu objetivo é construir uma carreira sólida em backend, mas tamb�
 ## Softskils
 
 Mais do que escrever código, gosto de entender o ecossistema do projeto.
-- **Trabalho em Equipe:** Acredito na **interdisciplinaridade** e na comunicação ativa. Na robótica, atuei garantindo que o software converse perfeitamente com a mecânica.
+- **Trabalho em Equipe:** Acredito na **interdisciplinaridade** e na comunicação ativa. Na robótica, atuei garantindo que o software converse perfeitamente com a mecânica e elétrica.
 - **Resolução de Problemas:** Tenho experiência em atuar sob pressão em competições, mantendo a calma para entregar soluções rápidas e, posteriormente, refatorá-las com análise crítica.
 - **Comunicação:** Habilidade lapidada através de apresentações de Sprints no SENAI e entrevistas técnicas na RoboCup.
 
@@ -18,9 +18,9 @@ Mais do que escrever código, gosto de entender o ecossistema do projeto.
 
 ## Experiência e Conquistas
 
-Enquanto membro da equipe **SESI FranRobots**, desenvolvi uma base sólida em sistemas embarcados e inteligência artificial aplicada.
+Enquanto membro da equipe **SESI FranRobots**, adquiri experiência prática em robótica, sistemas embarcados e visão computacional, atuando na integração entre software e hardware.
 
-* **Área de atuação:** Desenvolvimento de firmware para **ESP32**, implementação de Machine Learning (Edge Impulse) com visão computacional na **OpenMV**.
+* **Área de atuação:** Desenvolvimento de firmware para **ESP32** (C++), implementação de Machine Learning (Edge Impulse) com visão computacional (MicroPython) na **OpenMV**.
 * **Marco da Carreira:**
     * 🥉 3º Lugar na etapa Nacional da RoboCup (Vitória-ES).
     * 🇨🇦 Vaga para o Pan Americano da RoboCup (Canadá)
