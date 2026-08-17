@@ -32,7 +32,7 @@ Enquanto membro da equipe **SESI FranRobots**, desenvolvi uma base sólida em si
 | :--- | :--- |
 | **Desenvolvimento Web** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30"/> |
 | **Robótica & Visão** | ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white) <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30"/> <img src="https://img.shields.io/badge/Edge%20Impulse-121212?style=flat-square&logo=edgeimpulse&logoColor=white" height="30"/> |
-| **Ferramentas & Ambiente** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/> <img src="./assets/openmv.png" height="40"/> |
+| **Ferramentas & Ambiente** | <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30"/> <img src="./assets/openmv.png" height="40"/> <img src="./assets/platformio_icon.svg" height="40"/> |
 
 ---
 
